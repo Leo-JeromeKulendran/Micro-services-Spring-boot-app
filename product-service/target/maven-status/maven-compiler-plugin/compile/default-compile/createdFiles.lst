@@ -1,0 +1,10 @@
+com\iphoneshop\productservice\dto\ProductRequest.class
+com\iphoneshop\productservice\dto\ProductResponse.class
+com\iphoneshop\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\iphoneshop\productservice\service\ProductService.class
+com\iphoneshop\productservice\model\Product$ProductBuilder.class
+com\iphoneshop\productservice\model\Product.class
+com\iphoneshop\productservice\repository\ProductRepository.class
+com\iphoneshop\productservice\controller\ProductController.class
+com\iphoneshop\productservice\ProductServiceApplication.class
+com\iphoneshop\productservice\dto\ProductRequest$ProductRequestBuilder.class

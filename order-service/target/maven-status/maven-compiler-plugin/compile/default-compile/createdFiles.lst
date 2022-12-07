@@ -1,0 +1,11 @@
+com\iphoneshop\orderservice\dto\OrderRequest.class
+com\iphoneshop\orderservice\model\Order.class
+com\iphoneshop\orderservice\OrderServiceApplication.class
+com\iphoneshop\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\iphoneshop\orderservice\model\OrderLineItems.class
+com\iphoneshop\orderservice\controller\OrderController.class
+com\iphoneshop\orderservice\config\WebClientConfig.class
+com\iphoneshop\orderservice\dto\InventoryResponse.class
+com\iphoneshop\orderservice\service\OrderService.class
+com\iphoneshop\orderservice\repository\OrderRepository.class
+com\iphoneshop\orderservice\dto\OrderLineItemsDto.class

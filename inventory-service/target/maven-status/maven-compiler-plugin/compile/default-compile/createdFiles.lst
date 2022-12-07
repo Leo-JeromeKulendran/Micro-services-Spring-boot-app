@@ -1,0 +1,7 @@
+com\iphoneshop\inventoryservice\model\Inventory.class
+com\iphoneshop\inventoryservice\InventoryServiceApplication.class
+com\iphoneshop\inventoryservice\repository\InventoryRepository.class
+com\iphoneshop\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\iphoneshop\inventoryservice\dto\InventoryResponse.class
+com\iphoneshop\inventoryservice\service\InventoryService.class
+com\iphoneshop\inventoryservice\controller\InventoryController.class
